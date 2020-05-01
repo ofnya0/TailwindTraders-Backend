@@ -1,7 +1,7 @@
 variables:
   azureSubscription: Tail2wind
-  resourcegroup: TailwindTraders
-  location: East US
+  resourcegroup: windtailtraders
+  location: Australia Southeast
   ImageName: website
 
 steps:
