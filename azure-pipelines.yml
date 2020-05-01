@@ -1,5 +1,5 @@
 variables:
-  azureSubscription: Tail2wind
+  azureSubscription: Free Trial
   resourcegroup: TailwindTraders
   location: East US
   ImageName: tailwind2traders
