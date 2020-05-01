@@ -1,5 +1,5 @@
 variables:
-  azureSubscription: df39f967-5e28-470e-bb85-f84a00884525
+  azureSubscription: Azure SP
   resourcegroup: TailwindTraders
   location: East US
   ImageName: tailwindtraders
