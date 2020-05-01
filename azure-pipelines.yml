@@ -2,7 +2,7 @@ variables:
   azureSubscription: Azure SP
   resourcegroup: TailwindTraders
   location: East US
-  ImageName: tailwindtraders
+  ImageName: tailwind2traders
 
 steps:
 - task: AzureResourceGroupDeployment@2
