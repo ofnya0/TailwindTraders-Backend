@@ -2,7 +2,7 @@ variables:
   azureSubscription: Tail2wind
   resourcegroup: TailwindTraders
   location: East US
-  ImageName: tailwind2traders
+  ImageName: website
 
 steps:
 - task: AzureResourceGroupDeployment@2
