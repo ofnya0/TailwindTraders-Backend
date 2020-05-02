@@ -11,7 +11,7 @@ steps:
     azureSubscription: $(azureSubscription)
     resourceGroupName: $(resourcegroup)
     location: $(location)
-    csmFile: Deploy/deployment.json
+    csmFile: Deploy/arm/deployment.json
 
 - task: keesschollaart.arm-outputs.arm-outputs.ARM Outputs@5
   displayName: ARM Outputs
