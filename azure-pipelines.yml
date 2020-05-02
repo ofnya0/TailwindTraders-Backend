@@ -1,5 +1,5 @@
 variables:
-  azureSubscription: Tail2wind
+  azureSubscription: Azure SP
   resourcegroup: windtailtraders
   location: Australia Southeast
   ImageName: website
